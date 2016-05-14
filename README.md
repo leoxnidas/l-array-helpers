@@ -1,4 +1,4 @@
-**l-array-helpers**
+**l-array-helpers** [![Build Status](https://travis-ci.org/leoxnidas/l-array-helpers.svg?branch=master)](https://travis-ci.org/leoxnidas/l-array-helpers)
 ===================
 
 **lightweight javascript api that provides useful functional array helper.**
