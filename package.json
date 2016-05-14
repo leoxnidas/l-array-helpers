@@ -1,0 +1,28 @@
+{
+  "name": "l-array-helpers",
+  "version": "0.0.1",
+  "description": "lightweight javascript api that provides useful functional array helper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./examples/example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leoxnidas/l-array-helper"
+  },
+  "keywords": [
+    "iterator",
+    "helper",
+    "Helper",
+    "Iterator",
+    "Collections",
+    "Arrays",
+    "arrays",
+    "collections",
+  ],
+  "author": {
+      "name": "Leonardo J. Esparis Meza",
+      "email": "leo.leo.leoxnidas.c.14@gmail.com"
+  },
+  "license": "MIT"
+}
