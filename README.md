@@ -16,7 +16,7 @@ Usage.
 
 ```javascript
 
-var helper = require('l-array-helper');
+var helper = require('l-array-helpers');
 
 helper.each([1,2,3,4], function(el){
 	console.log(el);
