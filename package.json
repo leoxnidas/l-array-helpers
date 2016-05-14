@@ -1,6 +1,6 @@
 {
   "name": "l-array-helpers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "lightweight javascript api that provides useful functional array helper.",
   "main": "index.js",
   "scripts": {
@@ -21,8 +21,11 @@
     "collections"
   ],
   "author": {
-      "name": "Leonardo J. Esparis Meza",
-      "email": "leo.leo.leoxnidas.c.14@gmail.com"
+    "name": "Leonardo J. Esparis Meza",
+    "email": "leo.leo.leoxnidas.c.14@gmail.com"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "l-string": "^1.0.45"
+  }
 }
