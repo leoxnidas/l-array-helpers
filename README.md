@@ -51,6 +51,19 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+Version 0.0.3
+-------------
+
+	- adding travis ci support to proyect.
+	- adding l-string dependency to the project.
+
+
+Version 0.0.2
+-------------
+	
+	- fixing package.json repository url.
+
+
 Version 0.0.1
 -------------
 
