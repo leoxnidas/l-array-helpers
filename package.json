@@ -1,6 +1,6 @@
 {
   "name": "l-array-helpers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "lightweight javascript api that provides useful functional array helper.",
   "main": "index.js",
   "scripts": {
